@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I hope,",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-02-07T03:42:28.041703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Hope (feat. Charlie Puth)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/01_I_Hope_(feat._Charlie_Puth)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/02_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/03_I_Hope_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/04_I_Hope_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Hope Heaven Has a Honky Tonk",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/05_I_Hope_Heaven_Has_a_Honky_Tonk_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Hope Heaven Has a Honky Tonk (LP Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/06_I_Hope_Heaven_Has_a_Honky_Tonk_(LP_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Hope She's Drinkin' Tonight",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/07_I_Hope_She's_Drinkin'_Tonight_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Hope You Dance",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/08_I_Hope_You_Dance_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Hope You Dance - Album Version Radio Edit",
+      "artist": "Lee Ann Womack",
+      "has_synced": false,
+      "path": "select/09_I_Hope_You_Dance_-_Album_Version_Radio_Edit_Lee_Ann_Womack.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/10_Lord,_I_Hope_This_Day_Is_Good_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lord I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/11_Lord_I_Hope_This_Day_Is_Good_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Caylee Hammack feat. Alan Jackson",
+      "has_synced": true,
+      "path": "select/12_Lord,_I_Hope_This_Day_Is_Good_Caylee_Hammack_feat._Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Caylee Hammack",
+      "has_synced": true,
+      "path": "select/13_Lord,_I_Hope_This_Day_Is_Good_Caylee_Hammack.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good - Single Version",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_Lord,_I_Hope_This_Day_Is_Good_-_Single_Version_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/15_Lord,_I_Hope_This_Day_Is_Good_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Hope You Sleep At Night",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/16_I_Hope_You_Sleep_At_Night_Molly_Nilsson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I hope,",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_I_hope,_TOMOO.txt"
+    }
+  ]
+}
